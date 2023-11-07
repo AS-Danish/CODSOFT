@@ -44,6 +44,7 @@ Features Used:-<br>
 A calculator created using HTML, CSS, and JavaScript is a functional and interactive web application that performs mathematical calculations in real-time. HTML provides the structure for the calculator's layout, CSS styles the visual elements to make it user-friendly and visually appealing, and JavaScript handles the logic for performing arithmetic operations.<br>
 This calculator allows users to input numbers and operators through a graphical interface, mimicking the functionality of a physical calculator. When users click on the buttons or use the keyboard, the JavaScript code processes the input and displays the results dynamically on the calculator screen. It can handle basic arithmetic operations such as addition, subtraction, multiplication, and division, providing a convenient tool for users to perform calculations without the need for a physical calculator. The combination of HTML, CSS, and JavaScript creates a seamless and intuitive user experience, making mathematical computations quick and easy.<br>
 <h1>Preview of Calculator</h1>
-<img src="https://github.com/AS-Danish/CODSOFT/assets/112323639/5ed6f10c-df8a-463c-853f-fafcfb38c2fe" alt="Preview Calculator">
+
+<img src="https://github.com/AS-Danish/CODSOFT/assets/112323639/5afcaafc-1f1d-4585-ac58-79eefcadeba5" alt="Preview Calculator">
 <!--![image](https://github.com/AS-Danish/CODSOFT/assets/112323639/5ed6f10c-df8a-463c-853f-fafcfb38c2fe)--><br>
 
